@@ -77,8 +77,6 @@ public class ReportsCreateServlet extends HttpServlet {
                 request.getSession().setAttribute("flush", "“o˜^‚ªŠ®—¹‚µ‚Ü‚µ‚½B");
 
                 response.sendRedirect(request.getContextPath() + "/reports/index");
-
-
             }
         }
     }
